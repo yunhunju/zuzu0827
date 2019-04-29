@@ -1,0 +1,9 @@
+pillow
+sklearn
+pandas
+matplotlib
+numpy
+ipywidgets
+datetime
+bqplot
+collections
